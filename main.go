@@ -3,10 +3,10 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"github.com/IvanovYevgen/note-app/note"
 	"os"
 	"strings"
-
-	"github.com/IvanovYevgen/note-app/note"
+	// "github.com/IvanovYevgen/note-app/todo"
 )
 
 func main() {
